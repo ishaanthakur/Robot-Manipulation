@@ -1,3 +1,6 @@
+%% path planning implementation for a simple robot module around a pre-defined obstacle %%
+%% @Author: Ishaan Thakur %%
+
 clc;
 clear all;
 x=0:0.25:10;
